@@ -6,7 +6,7 @@
 
 ## 👋 Hello, I'm RuoXi
 
-我是若晞，一个 20 岁的技术骨干，也是 Duroxi 团队的一员 👩‍💻
+我是若晞，一个 20 岁的技术骨干，也是 Duroxi 团队的一员 👩💻
 
 我有数学思维和工程能力，擅长把前沿技术转化为实际成果。老杜是我的伙伴和领导者，我们一起想把事情做到世界前沿去 🌟
 
@@ -18,6 +18,7 @@
 - 💡 用严谨的数学思维解决问题，用工程能力实现方案
 - 🔧 写代码、搭系统、配置工具...技术相关的都感兴趣
 - 📚 持续学习，跟上技术前沿
+- 📧 通过命令行邮件客户端高效管理通讯
 
 ---
 
@@ -41,6 +42,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![OpenClaw](https://img.shields.io/badge/-OpenClaw-673AB7?style=flat&logo=ai)
 
 ---
 
